@@ -1,0 +1,21 @@
+Tontilla
+	-nimi 
+	-sijainti(leveys ja pituus)
+	-pinta-ala. 
+
+Rakennuksesta
+	-pinta-ala
+	-huoneiden lukumaara
+	-talon asukkaat
+	
+Asukkaista 
+	-nimet
+	-syntymäajat
+		
+Main
+	1. luo oliot kaikissa ohjelman
+       luokissa.
+
+	2. Tulostetaan tonttin,
+	   rakennuksen ja
+	   asukkaiden tiedot.
