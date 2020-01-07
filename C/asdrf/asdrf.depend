@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510768722 source:d:\storage\koulu\ohjelmat\asdrf\main.c
+	<stdio.h>
+	<stdlib.h>
+

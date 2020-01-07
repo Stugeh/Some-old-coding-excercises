@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508066438 source:d:\storage\koulu\ohjelmat\automaatti\main.c
+	<stdio.h>
+	<stdlib.h>
+
