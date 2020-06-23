@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int jako_algorytmi ();
-int jako_algorytmi2();
+int jako_algoritmi ();
+int jako_algoritmi2();
 
 int main()
 {
@@ -41,13 +41,13 @@ char syote;
         break;
 
         case 'h':
-        jako_algorytmi();
+        jako_algoritmi();
         break;
         }
     return 0;
 }
 
-int jako_algorytmi (){
+int jako_algoritmi (){
    int syot_summa;
    int tuloste50 = 0;
    int tuloste20 = 0;
